@@ -1,0 +1,7 @@
+tokens:
+  - "Your token account"
+  # - "You can add more token account (Optional but preferred)"
+
+webhook_url: "Webhook url for send available user"
+
+username_length: 4
